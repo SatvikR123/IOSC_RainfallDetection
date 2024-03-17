@@ -39,3 +39,18 @@ streamlit run app.py
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Streamlit User Interface
+
+Below are screenshots of the Streamlit user interface in action:
+
+![Home Page](streamlit_ui/1.png)
+
+
+![Input Form](streamlit_ui/2.png)
+
+
+![Prediction Result](streamlit_ui/3.png)
+
+![Additional Screenshot 1](streamlit_ui/4.png)
+![Additional Screenshot 2](streamlit_ui/5.png)
