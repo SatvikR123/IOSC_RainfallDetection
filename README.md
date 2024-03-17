@@ -39,3 +39,10 @@ streamlit run app.py
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Streamlit UI Images
+![1](https://github.com/SatvikR123/IOSC_RainfallDetection/assets/151377525/5f73f31b-f277-4a18-9bbd-5ab3f3c59777)
+![2](https://github.com/SatvikR123/IOSC_RainfallDetection/assets/151377525/b506e2c3-7365-429d-a0a7-c418aaea8010)
+![3](https://github.com/SatvikR123/IOSC_RainfallDetection/assets/151377525/6cfbe966-8ce8-40ec-b730-4679d4dd98ca)
+![4](https://github.com/SatvikR123/IOSC_RainfallDetection/assets/151377525/92b5e2e3-2420-43df-b7fc-e1dde5ba5941)
+![5](https://github.com/SatvikR123/IOSC_RainfallDetection/assets/151377525/15b87b86-2c08-468f-adcd-ca059fe9bb9d)
