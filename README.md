@@ -20,13 +20,13 @@ The model is trained on historical weather data from various locations in Austra
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rainfall-detection.git
+git clone https://github.com/SatvikR123/IOSC_RainfallDetection.git
 ```
 
 2. Install dependencies:
 
 ```bash
-cd rainfall-detection
+cd IOSC_RainfallDetection
 pip install -r requirements.txt
 ```
 
